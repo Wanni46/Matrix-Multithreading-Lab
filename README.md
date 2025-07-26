@@ -142,12 +142,7 @@ Threads execute independently and simultaneously, showing how CPU cores can be e
 
 ## 📚 References
 
-1. A. Silberschatz, P. B. Galvin, and G. Gagne, _Operating System Concepts_, 8th ed. Hoboken, NJ, USA: Wiley, 2008.
-2. "What are the limitations of Amdahl's Law?" MassedCompute, [Online]. Available: https://massedcompute.com/faq-answers/?question=What+are+the+limitations+of+Amdahl% [Accessed: 21-Jul-2025].
-3. "RISC and CISC," GeeksforGeeks, [Online]. Available: https://www.geeksforgeeks.org/computer-organization-architecture/computer-organization-risc-and-cisc/ [Accessed: 21-Jul-2025].
-4. "Amdahl's law," Wikipedia, [Online]. Available: https://en.wikipedia.org/wiki/Amdahl%27s_law [Accessed: 21-Jul-2025].
-5. "Historical Notes on CISC and RISC," OSDev Wiki, [Online]. Available: https://wiki.osdev.org/Historical_Notes_on_CISC_and_RISC [Accessed: 20-Jul-2025].
-6. "RISC architecture," IBM Archives, [Online]. Available: https://www.ibm.com/history/risc [Accessed: 20-Jul-2025]
+A. Silberschatz, P. B. Galvin, and G. Gagne, _Operating System Concepts_, 8th ed. Hoboken, NJ, USA: Wiley, 2008.
 
 ---
 <div align="center">
