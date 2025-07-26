@@ -87,9 +87,9 @@ Please add the screenshots of the terminal output from both implementations insi
 
 ```
 Matrix A:        Matrix B:        Result C:
-[ 1  2  3 ]      [ 9  8  7 ]      [ 38  32  26 ]
-[ 4  5  6 ]  x   [ 6  5  4 ]  =   [ 92  77  62 ]
-[ 7  8  9 ]      [ 3  2  1 ]      [146 122  98 ]
+[ 1  4  7 ]      [ 7  8  9 ]      [ 30  42  54 ]
+[ 2  5  8 ]  x   [ 4  5  5 ]  =   [ 42  57  72 ]
+[ 3  6  9 ]      [ 1  2  3 ]      [54   72  90 ]
 
 Execution time with threads: 0.0034 seconds
 Execution time without threads: 0.0092 seconds
