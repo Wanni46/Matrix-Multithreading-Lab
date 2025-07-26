@@ -132,9 +132,11 @@ Threads execute independently and simultaneously, showing how CPU cores can be e
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Matrix--Multithreading--Lab-brightgreen?style=for-the-badge&logo=github)](https://github.com/Wanni46/Matrix-Multithreading-Lab)
 
-<img src="https://img.shields.io/badge/Last%20Commit-2025--07--26%2008:55:15%20UTC-informational?style=flat-square&logo=git"/>
+<img src="https://img.shields.io/badge/Last%20Commit-2025--07--26%2009:04:40%20UTC-informational?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square"/>
 <img src="https://img.shields.io/badge/Maintained%20by-Wanni46-orange?style=flat-square&logo=github"/>
+
+</div>
 
 ---
 
@@ -145,4 +147,12 @@ Threads execute independently and simultaneously, showing how CPU cores can be e
 3. "RISC and CISC," GeeksforGeeks, [Online]. Available: https://www.geeksforgeeks.org/computer-organization-architecture/computer-organization-risc-and-cisc/ [Accessed: 25-Jul-2025].
 4. "Amdahl's law," Wikipedia, [Online]. Available: https://en.wikipedia.org/wiki/Amdahl%27s_law [Accessed: 25-Jul-2025].
 5. "Historical Notes on CISC and RISC," OSDev Wiki, [Online]. Available: https://wiki.osdev.org/Historical_Notes_on_CISC_and_RISC [Accessed: 25-Jul-2025].
-6. "RISC architecture," IBM Archives, [Online]. Available: https://www.ibm.com/history/risc [Accessed: 25-Jul-2025] 
+6. "RISC architecture," IBM Archives, [Online]. Available: https://www.ibm.com/history/risc [Accessed: 25-Jul-2025]
+
+---
+<div align="center">
+
+THANK YOU!
+
+</div>
+
